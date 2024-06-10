@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "heying.png"
+  avatar           : "personal.png"
   name             : "Zihan Chen"
   pronouns         : "he/his"  
   bio              : "Ph.D. Student at the University of Virginia"
