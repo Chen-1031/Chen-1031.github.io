@@ -9,7 +9,8 @@ redirect_from:
 
 ## Interests
 
-* I like almost all [Pokémon](https://www.pokemon.com) games. My favorite Pokémon is [Incineroar](https://www.pokemon.com/us/pokedex/incineroar) (炽焰咆哮虎)
+* I like almost all [Pokémon](https://www.pokemon.com) games. My favorite Pokémon is [Incineroar](https://www.pokemon.com/us/pokedex/incineroar).<br>
+  Incineroar is truly one of a kind. How can there be such a handsome Pokémon in existence?
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
