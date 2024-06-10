@@ -31,4 +31,4 @@ arXiv preprint
 
 **FastGAS: Fast Graph-based Annotation Selection for In-Context Learning.**[pdf](https://arxiv.org/abs/2406.03730)<br>
 **Zihan Chen**, Song Wang, Cong Shen, Jundong Li<br>
-Annual Meeting of the Association for Computational Linguistics(ACL) 2024 Findings
+Annual Meeting of the Association for Computational Linguistics(ACL Findings), 2024 
