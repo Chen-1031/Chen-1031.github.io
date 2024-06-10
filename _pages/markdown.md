@@ -9,9 +9,10 @@ redirect_from:
 
 ## Interests
 
-* I like almost all [Pokémon](https://www.pokemon.com) games. My favorite Pokémon is [Incineroar](https://www.pokemon.com/us/pokedex/incineroar).<br>
-  Incineroar is truly one of a kind. How can there be such a handsome Pokémon in existence?
-* Top navigation bar config: _data/navigation.yml
+* I like almost all Pokémon games. My favorite Pokémon is [Incineroar](https://www.pokemon.com/us/pokedex/incineroar).<br>
+  Incineroar is truly one of a kind. How can there be such a handsome Pokémon in existence? HU MEN.
+* Playing sports: I like to participate in fun activities.
+  Basketball (My favorite NBA team is OKC Thunder), table tennis, swimming, fishing(wish I can learn in the future)
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
