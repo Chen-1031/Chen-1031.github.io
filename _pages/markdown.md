@@ -13,6 +13,6 @@ redirect_from:
   Incineroar is truly one of a kind. How can there be such a handsome Pokémon in existence? HU MEN.
 * Playing sports: I like to participate in fun activities.<br>
   Basketball (My favorite team is **OKC Thunder**), table tennis, swimming, fishing(I wish I could learn in the future).
-* Traveling and eating.
+* Traveling and Eating.
 
 
