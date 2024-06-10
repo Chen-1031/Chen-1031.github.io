@@ -11,7 +11,7 @@ The Journal of Pathology: Clinical Research
 
 **Personalized Federated Learning with Attention-Based Client Selection.**[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447362)<br>
 **Zihan Chen**, Jundong Li, Cong Shen<br>
-ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2024
 
 **Verification of Machine Unlearning is Fragile.**<br>
 Binchi Zhang, **Zihan Chen**, Cong Shen, Jundong Li<br>
