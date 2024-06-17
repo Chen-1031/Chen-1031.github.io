@@ -21,7 +21,7 @@ arXiv preprint
 **Zihan Chen**, Song Wang, Cong Shen, Jundong Li<br>
 Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024 
 
-**Verification of Machine Unlearning is Fragile.**<br>
+**Verification of Machine Unlearning is Fragile.**[pdf](https://openreview.net/pdf/53e24204bd6b94f64e8d6b6230c4116e2273270f.pdf)<br>
 Binchi Zhang, **Zihan Chen**, Cong Shen, Jundong Li<br>
 International Conference on Machine Learning (ICML), 2024
 
