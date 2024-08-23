@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 Chengshuai Shi, Kun Yang, **Zihan Chen**, Jundong Li, Jing Yang, Cong Shen<br>
 arXiv preprint
 
-**Federated Graph Learning with Structure Proxy Alignment.**<br>
+**Federated Graph Learning with Structure Proxy Alignment.**[pdf](https://arxiv.org/abs/2408.09393)<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
 
