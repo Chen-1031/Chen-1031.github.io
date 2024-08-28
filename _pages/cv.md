@@ -18,6 +18,7 @@ Education
 Honors and Awards
 ======
 * Ann Lee Brown Rookie of the Year Graduate Research Award, UVa, 2024
+* SDM’24 Doctoral Forum Travel Award, SDM, 2024
 * Graduate student scholarship, USTC, 2020 - 2022
 * Outstanding student prizes, USTC, 2018 - 2019
 * Freshman scholarship, USTC, 2016
