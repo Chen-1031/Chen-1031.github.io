@@ -5,9 +5,13 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Mixture of Demonstrations for In-Context Learning**[pdf]<br>
+**Song Wang**, **Zihan Chen**, Chengshuai Shi, Cong Shen, Jundong Li<br>
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
+
 **Efficient Prompt Optimization Through the Lens of Best Arm Identification.**[pdf](https://arxiv.org/abs/2402.09723)<br>
 Chengshuai Shi, Kun Yang, **Zihan Chen**, Jundong Li, Jing Yang, Cong Shen<br>
-arXiv preprint
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
 
 **Federated Graph Learning with Structure Proxy Alignment.**[pdf](https://arxiv.org/abs/2408.09393)<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
