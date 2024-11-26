@@ -5,13 +5,17 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**Mixture of Demonstrations for In-Context Learning.**[pdf]<br>
+**Channel-Wise Mixed-Precision Quantization for Large Language Models.**[pdf](https://arxiv.org/pdf/2410.13056)<br>
+**Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
+arXiv preprint
+
+**Mixture of Demonstrations for In-Context Learning.**[pdf](https://openreview.net/pdf?id=uqxSLoCw3K)<br>
 \*Song Wang\*, \***Zihan Chen**\*, Chengshuai Shi, Cong Shen, Jundong Li<br>
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
 
-**Efficient Prompt Optimization Through the Lens of Best Arm Identification.**[pdf](https://arxiv.org/abs/2402.09723)<br>
+**Efficient Prompt Optimization Through the Lens of Best Arm Identification.**[pdf](https://openreview.net/pdf?id=FLNnlfBGMo)<br>
 Chengshuai Shi, Kun Yang, **Zihan Chen**, Jundong Li, Jing Yang, Cong Shen<br>
-The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
+The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 
 
 **Federated Graph Learning with Structure Proxy Alignment.**[pdf](https://arxiv.org/abs/2408.09393)<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
@@ -35,4 +39,4 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP), 20
 
 **Optimization of deep learning models for the prediction of gene mutations using unsupervised clustering.**[pdf](https://pathsocjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cjp2.302)<br>
 **Zihan Chen**, Xingyu Li, Miaomiao Yang, Hong Zhang, Xu Steven Xu<br>
-The Journal of Pathology: Clinical Research
+The Journal of Pathology: Clinical Research, 2023
