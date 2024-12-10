@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.**<br>
+Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
+The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
+
 **Channel-Wise Mixed-Precision Quantization for Large Language Models.**[pdf](https://arxiv.org/pdf/2410.13056)<br>
 **Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
 arXiv preprint
