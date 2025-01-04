@@ -5,7 +5,7 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.**<br>
+**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.**[pdf](https://arxiv.org/abs/2412.19229)<br>
 Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 
