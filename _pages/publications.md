@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**A Survey of Scaling in Large Language Model Reasoning.**[pdf](https://arxiv.org/abs/2504.02181)<br>
+**Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
+arXiv preprint
+
 **Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.** [pdf](https://arxiv.org/abs/2412.19229)<br>
 Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
