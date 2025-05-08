@@ -5,7 +5,19 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**A Survey of Scaling in Large Language Model Reasoning.**[pdf](https://arxiv.org/abs/2504.02181)<br>
+**A Survey of Graph Prompting for Graph Learning Models: Recent Advances and Future Directions.** [pdf]<br>
+Xingbo Fu, Zehong Wang, **Zihan Chen**, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li<br>
+SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
+
+**MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning.** [pdf]<br>
+\***Zihan Chen**\*, \*Song Wang\*, Zhen Tan, Jundong Li, Cong Shen<br>
+International Conference on Machine Learning (ICML), 2025
+
+**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs.** [pdf](https://arxiv.org/abs/2504.21206)<br>
+**Zihan Chen**, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen<br>
+arXiv preprint
+
+**A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
 **Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
 arXiv preprint
 
