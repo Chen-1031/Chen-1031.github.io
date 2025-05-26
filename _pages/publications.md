@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 Xingbo Fu, Zehong Wang, **Zihan Chen**, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 
-**MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning.** [pdf]<br>
+**MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning.** [pdf](https://arxiv.org/abs/2505.16225)<br>
 \***Zihan Chen**\*, \*Song Wang\*, Zhen Tan, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2025
 
@@ -25,7 +25,7 @@ arXiv preprint
 Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 
-**Channel-Wise Mixed-Precision Quantization for Large Language Models.** [pdf](https://arxiv.org/pdf/2410.13056)<br>
+**Channel-Wise Mixed-Precision Quantization for Large Language Models.** [pdf](https://arxiv.org/abs/2410.13056)<br>
 **Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
 arXiv preprint
 
