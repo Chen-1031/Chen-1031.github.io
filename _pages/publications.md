@@ -5,7 +5,13 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**A Survey of Graph Prompting for Graph Learning Models: Recent Advances and Future Directions.** [pdf]<br>
+**Large Language Models for Data Science: A Survey.** [pdf](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)<br>
+Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
+Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting,
+Jundong Li, Huan Liu<br>
+Researchgate
+
+**Graph Prompting for Graph Learning Models: Recent Advances and Future Directions.** [pdf](https://arxiv.org/abs/2506.08326)<br>
 Xingbo Fu, Zehong Wang, **Zihan Chen**, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 
