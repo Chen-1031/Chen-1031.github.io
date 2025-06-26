@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
+Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
+arXiv preprint
+
 **Large Language Models for Data Science: A Survey.** [pdf](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)<br>
 Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
 Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting,
