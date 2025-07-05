@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.**[pdf]<br>
+Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, LAN MA, Bin Shi, Bo Dong<br>
+ACM Multimedia (MM), 2025
+
 **AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
 Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
 arXiv preprint
@@ -30,6 +34,10 @@ arXiv preprint
 **A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
 **Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
 arXiv preprint
+
+**Understanding Prejudice and Fidelity of Diverge-to-Converge Multi-Agent Systems.** [pdf](https://openreview.net/pdf?id=EP6n8LCEK6)<br>
+Zhen Tan, Song Wang, Shyam Marjit, **Zihan Chen**, Yinhan He, Xinyu Zhao, Pingzhi Li, Jundong Li, Tianlong Chen<br>
+Openreview
 
 **Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.** [pdf](https://arxiv.org/abs/2412.19229)<br>
 Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
