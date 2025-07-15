@@ -18,7 +18,7 @@ redirect_from:
   Basketball (My favorite team is **OKC Thunder**, [We are the champions 2025!!!](https://www.nba.com/thunder/champions)), table tennis, swimming, fishing(I wish I could learn in the future).
 
   <div style="text-align:center">
-  <img src="/images/okcchampion.avif" alt="OKC Champ" width="500">
+  <img src="/images/okcchampion.avif" alt="OKC Champ" width="600">
   </div>
 * Traveling and Eating.
 
