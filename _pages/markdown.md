@@ -15,7 +15,7 @@ redirect_from:
   <img src="/images/incineroar.gif" alt="Incineroar" width="100"> <img src="/images/metagross.gif" alt="Metagross" width="100"> <img src="/images/amoongus.gif" alt="Amoongus" width="60">
   <img src="/images/Groudon.gif" alt="Groudon" width="80">  <img src="/images/Gholdengo.gif" alt="Gholdengo" width="35">  <img src="/images/Calyrex.gif" alt="Calyrex" width="50">
 * Playing sports: I like to participate in fun activities.<br>
-  Basketball (My favorite team is **OKC Thunder**), table tennis, swimming, fishing(I wish I could learn in the future).
+  Basketball (My favorite team is **OKC Thunder**, [We are the champions 2025!!!](https://www.nba.com/thunder/champions)), table tennis, swimming, fishing(I wish I could learn in the future).
 * Traveling and Eating.
 
 
