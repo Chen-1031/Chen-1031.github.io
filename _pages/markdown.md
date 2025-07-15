@@ -16,6 +16,10 @@ redirect_from:
   <img src="/images/Groudon.gif" alt="Groudon" width="80">  <img src="/images/Gholdengo.gif" alt="Gholdengo" width="35">  <img src="/images/Calyrex.gif" alt="Calyrex" width="50">
 * Playing sports: I like to participate in fun activities.<br>
   Basketball (My favorite team is **OKC Thunder**, [We are the champions 2025!!!](https://www.nba.com/thunder/champions)), table tennis, swimming, fishing(I wish I could learn in the future).
+
+  <div style="text-align:center">
+  <img src="/images/okcchampion.avif" alt="OKC Champ" width="500">
+  </div>
 * Traveling and Eating.
 
 
