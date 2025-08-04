@@ -5,7 +5,7 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf]<br>
+**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br>
 Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, LAN MA, Bin Shi, Bo Dong<br>
 ACM Multimedia (MM), 2025
 
