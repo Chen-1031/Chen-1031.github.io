@@ -26,7 +26,7 @@ Zaiyi Zheng, Song Wang, **Zihan Chen**, Yaochen Zhu, Yinhan He, Liangjie Hong, Q
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
 **Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br>
-Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, LAN MA, Bin Shi, Bo Dong<br>
+Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, Lan Ma, Bin Shi, Bo Dong<br>
 ACM Multimedia (MM), 2025
 
 **Large Language Models for Data Science: A Survey.** [pdf](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)<br>
