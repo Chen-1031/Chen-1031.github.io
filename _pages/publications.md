@@ -5,18 +5,33 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Learning from Diverse Reasoning Paths with Routing and Collaboration.** [pdf]<br>
+Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, **Zihan Chen**, Yushun Dong, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
+
+**Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation.** [pdf]<br>
+\*Song Wang\*, \***Zihan Chen**\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
+
+**From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning.** [pdf]<br>
+**Zihan Chen**, Song Wang, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
+
+**CoRAG: Enhancing Hybrid Retrieval-Augmented Generation through a Cooperative Retriever Architecture.** [pdf]<br>
+Zaiyi Zheng, Song Wang, **Zihan Chen**, Yaochen Zhu, Yinhan He, Liangjie Hong, Qi Guo, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
+
+**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
+Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
+
 **Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br>
 Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, LAN MA, Bin Shi, Bo Dong<br>
 ACM Multimedia (MM), 2025
 
-**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
-Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
-arXiv preprint
-
 **Large Language Models for Data Science: A Survey.** [pdf](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)<br>
 Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
-Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting,
-Jundong Li, Huan Liu<br>
+Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu<br>
 Researchgate
 
 **Graph Prompting for Graph Learning Models: Recent Advances and Future Directions.** [pdf](https://arxiv.org/abs/2506.08326)<br>
