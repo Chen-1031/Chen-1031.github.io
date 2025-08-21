@@ -13,6 +13,10 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP M
 \*Song Wang\*, \***Zihan Chen**\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
 
+**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
+Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
+
 **From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning.** [pdf]<br>
 **Zihan Chen**, Song Wang, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
@@ -20,10 +24,6 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP F
 **CoRAG: Enhancing Hybrid Retrieval-Augmented Generation through a Cooperative Retriever Architecture.** [pdf]<br>
 Zaiyi Zheng, Song Wang, **Zihan Chen**, Yaochen Zhu, Yinhan He, Liangjie Hong, Qi Guo, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
-
-**AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction.** [pdf](https://arxiv.org/abs/2506.17784)<br>
-Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
-The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
 
 **Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br>
 Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, LAN MA, Bin Shi, Bo Dong<br>
