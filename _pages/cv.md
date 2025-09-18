@@ -17,10 +17,11 @@ Education
 
 Honors and Awards
 ======
-* SDM Doctoral Forum Travel Award, 2025
-* NeurIPS 2024 Financial Aid Award, 2024
+* McVey Fellowship, UVa, 2025
+* SDM'25 Doctoral Forum Travel Award, SDM, 2025
+* NeurIPS 2024 Financial Aid Award, NeurIPS, 2024
 * Ann Lee Brown Rookie of the Year Graduate Research Award, UVa, 2024
-* SDM’24 Doctoral Forum Travel Award, SDM, 2024
+* SDM'24 Doctoral Forum Travel Award, SDM, 2024
 * Graduate student scholarship, USTC, 2020 - 2022
 * Outstanding student prizes, USTC, 2018 - 2019
 * Freshman scholarship, USTC, 2016
