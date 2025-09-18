@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks.** [pdf]<br>
+Xingbo Fu, Zhenyu Lei, **Zihan Chen**, Binchi Zhang, Chuxu Zhang, Jundong Li<br>
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 
+
 **Learning from Diverse Reasoning Paths with Routing and Collaboration.** [pdf](https://arxiv.org/abs/2508.16861)<br>
 Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, **Zihan Chen**, Yushun Dong, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
