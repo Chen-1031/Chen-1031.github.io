@@ -29,7 +29,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP F
 Zaiyi Zheng, Song Wang, **Zihan Chen**, Yaochen Zhu, Yinhan He, Liangjie Hong, Qi Guo, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
-**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br>
+**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br> (Oral)
 Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, Lan Ma, Bin Shi, Bo Dong<br>
 ACM Multimedia (MM), 2025
 
