@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
-Z
+
 **Navigating Sparsities in High-Dimensional Linear Contextual Bandits.** [pdf](https://arxiv.org/abs/2510.08435)<br>
 Rui Zhao, **Zihan Chen**, Zemin Zheng<br>
 arXiv preprint
