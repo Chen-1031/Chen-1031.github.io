@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
+Z
+**Navigating Sparsities in High-Dimensional Linear Contextual Bandits.** [pdf](https://arxiv.org/abs/2510.08435)<br>
+Rui Zhao, **Zihan Chen**, Zemin Zheng<br>
+arXiv preprint
 
 **GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks.** [pdf]<br>
 Xingbo Fu, Zhenyu Lei, **Zihan Chen**, Binchi Zhang, Chuxu Zhang, Jundong Li<br>
