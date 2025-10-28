@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 \*Rui Zhao\*, \***Zihan Chen**\*, Zemin Zheng<br>
 arXiv preprint
 
-**GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks.** [pdf]<br>
+**GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks.** [pdf](https://arxiv.org/abs/2510.22451)<br>
 Xingbo Fu, Zhenyu Lei, **Zihan Chen**, Binchi Zhang, Chuxu Zhang, Jundong Li<br>
 The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 
 
