@@ -25,7 +25,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP M
 Song Wang, Zhen Tan, **Zihan Chen**,  Shuang Zhou, Tianlong Chen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
 
-**From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning.** [pdf]<br>
+**From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning.** [pdf](https://arxiv.org/abs/2510.24528)<br>
 **Zihan Chen**, Song Wang, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
