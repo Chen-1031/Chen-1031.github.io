@@ -17,7 +17,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
 Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, **Zihan Chen**, Yushun Dong, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
 
-**Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation.** [pdf]<br>
+**Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation.** [pdf](https://aclanthology.org/2025.emnlp-main.587/)<br>
 \*Song Wang\*, \***Zihan Chen**\*, Peng Wang, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2025 
 
