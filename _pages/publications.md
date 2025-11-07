@@ -29,7 +29,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP M
 **Zihan Chen**, Song Wang, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
-**CoRAG: Enhancing Hybrid Retrieval-Augmented Generation through a Cooperative Retriever Architecture.** [pdf]<br>
+**CoRAG: Enhancing Hybrid Retrieval-Augmented Generation through a Cooperative Retriever Architecture.** [pdf](https://aclanthology.org/2025.findings-emnlp.872/)<br>
 Zaiyi Zheng, Song Wang, **Zihan Chen**, Yaochen Zhu, Yinhan He, Liangjie Hong, Qi Guo, Jundong Li<br>
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
