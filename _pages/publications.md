@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs.** [pdf](https://arxiv.org/abs/2504.21206)<br>
+**Zihan Chen**, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen<br>
+Transactions on Machine Learning Research (TMLR), 2025
+
 **Navigating Sparsities in High-Dimensional Linear Contextual Bandits.** [pdf](https://arxiv.org/abs/2510.08435)<br>
 \*Rui Zhao\*, \***Zihan Chen**\*, Zemin Zheng<br>
 arXiv preprint
@@ -49,10 +53,6 @@ SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 **MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning.** [pdf](https://arxiv.org/abs/2505.16225)<br>
 \***Zihan Chen**\*, \*Song Wang\*, Zhen Tan, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2025
-
-**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs.** [pdf](https://arxiv.org/abs/2504.21206)<br>
-**Zihan Chen**, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen<br>
-arXiv preprint
 
 **A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
 **Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
