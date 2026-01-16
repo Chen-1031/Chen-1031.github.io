@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
+Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
+
 **FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs.** [pdf](https://arxiv.org/abs/2504.21206)<br>
 **Zihan Chen**, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen<br>
 Transactions on Machine Learning Research (TMLR), 2025
@@ -81,10 +85,6 @@ The Thirty-Eighth Annual Conference on Neural Information Processing Systems (Ne
 **Federated Graph Learning with Structure Proxy Alignment.** [pdf](https://arxiv.org/abs/2408.09393)<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
-
-**Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
-Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
-arXiv preprint
 
 **FastGAS: Fast Graph-based Annotation Selection for In-Context Learning.** [pdf](https://arxiv.org/abs/2406.03730)<br>
 **Zihan Chen**, Song Wang, Cong Shen, Jundong Li<br>
