@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
+Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
+arXiv preprint
+
 **Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
 Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
