@@ -5,13 +5,17 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
+**Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
+ACM SIGKDD Explorations, 2026
+
 **Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
 Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
-arXiv preprint
+IEEE International Symposium on Information Theory (ISIT), 2026
 
 **Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
 Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
 
 **FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs.** [pdf](https://arxiv.org/abs/2504.21206)<br>
 **Zihan Chen**, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen<br>
@@ -62,10 +66,6 @@ SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025
 \***Zihan Chen**\*, \*Song Wang\*, Zhen Tan, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2025
 
-**A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
-**Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
-arXiv preprint
-
 **Understanding Prejudice and Fidelity of Diverge-to-Converge Multi-Agent Systems.** [pdf](https://openreview.net/pdf?id=EP6n8LCEK6)<br>
 Zhen Tan, Song Wang, Shyam Marjit, **Zihan Chen**, Yinhan He, Xinyu Zhao, Pingzhi Li, Jundong Li, Tianlong Chen<br>
 Openreview
@@ -78,11 +78,11 @@ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 **Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
 arXiv preprint
 
-**Mixture of Demonstrations for In-Context Learning.** [pdf](https://openreview.net/pdf?id=uqxSLoCw3K)<br>
+**Mixture of Demonstrations for In-Context Learning.** [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)<br>
 \*Song Wang\*, \***Zihan Chen**\*, Chengshuai Shi, Cong Shen, Jundong Li<br>
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
 
-**Efficient Prompt Optimization Through the Lens of Best Arm Identification.** [pdf](https://openreview.net/pdf?id=FLNnlfBGMo)<br>
+**Efficient Prompt Optimization Through the Lens of Best Arm Identification.** [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/b46bc1449205888e1883f692aff1a252-Paper-Conference.pdf)<br>
 Chengshuai Shi, Kun Yang, **Zihan Chen**, Jundong Li, Jing Yang, Cong Shen<br>
 The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 
 
