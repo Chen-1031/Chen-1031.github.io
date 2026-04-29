@@ -17,6 +17,7 @@ Education
 
 Honors and Awards
 ======
+* Louis T. Rader Graduate Research Award, UVa, 2026
 * McVey Fellowship, UVa, 2025
 * SDM'25 Doctoral Forum Travel Award, SDM, 2025
 * NeurIPS 2024 Financial Aid Award, NeurIPS, 2024
