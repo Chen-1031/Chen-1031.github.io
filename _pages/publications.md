@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory.** [pdf](https://arxiv.org/abs/2605.15384)<br>
+\*Songwei Dong\*, \***Zihan Chen**\*, Chengshuai Shi, Peng Wang, Jundong Li, Cong Shen<br>
+arXiv preprint
+
 **SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.** [pdf]<br>
 **Zihan Chen**, Chengshuai Shi, Song Wang, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2026
