@@ -5,11 +5,11 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-**SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.**[pdf]<br>
+**SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.** [pdf]<br>
 **Zihan Chen**, Chengshuai Shi, Song Wang, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2026
 
-**Generalist Graph Anomaly Detection via Prototype-Based Distillation.**[pdf]<br>
+**Generalist Graph Anomaly Detection via Prototype-Based Distillation.** [pdf]<br>
 Yiming Xu, **Zihan Chen**, Zhen Peng, Song Wang, Bin Shi, Bo Dong, Chao Shen<br>
 International Conference on Machine Learning (ICML), 2026
 
