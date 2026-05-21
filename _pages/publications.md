@@ -5,6 +5,14 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.**[pdf]
+**Zihan Chen**, Chengshuai Shi, Song Wang, Jundong Li, Cong Shen<br>
+International Conference on Machine Learning (ICML), 2026
+
+**Generalist Graph Anomaly Detection via Prototype-Based Distillation.**[pdf]
+Yiming Xu, **Zihan Chen**, Zhen Peng, Song Wang, Bin Shi, Bo Dong, Chao Shen<br>
+International Conference on Machine Learning (ICML), 2026
+
 **A Survey of Scaling in Large Language Model Reasoning.** [pdf](https://arxiv.org/abs/2504.02181)<br>
 **Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
 ACM SIGKDD Explorations, 2026
