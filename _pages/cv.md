@@ -18,7 +18,7 @@ Education
 Honors and Awards
 ======
 * Silver Reviewer Award, ICML, 2026
-* Louis T. Rader Graduate Research Award, UVa, 2026(https://engineering.virginia.edu/news-events/news/uva-engineering-announces-2026-departmental-student-award-winners)
+* [Louis T. Rader Graduate Research Award](https://engineering.virginia.edu/news-events/news/uva-engineering-announces-2026-departmental-student-award-winners), UVa, 2026
 * McVey Fellowship, UVa, 2025
 * SDM'25 Doctoral Forum Travel Award, SDM, 2025
 * NeurIPS 2024 Financial Aid Award, NeurIPS, 2024
