@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Channel-Wise Mixed-Precision Quantization for Large Language Models.** [pdf](https://arxiv.org/abs/2410.13056)<br>
+**Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
+Transactions on Machine Learning Research (TMLR), 2026
+
 **Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory.** [pdf](https://arxiv.org/abs/2605.15384)<br>
 \*Songwei Dong\*, \***Zihan Chen**\*, Chengshuai Shi, Peng Wang, Jundong Li, Cong Shen<br>
 arXiv preprint
@@ -85,10 +89,6 @@ Openreview
 **Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning.** [pdf](https://arxiv.org/abs/2412.19229)<br>
 Xingbo Fu, **Zihan Chen**, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li<br> 
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
-
-**Channel-Wise Mixed-Precision Quantization for Large Language Models.** [pdf](https://arxiv.org/abs/2410.13056)<br>
-**Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
-arXiv preprint
 
 **Mixture of Demonstrations for In-Context Learning.** [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/a0da098e0031f58269efdcba40eedf47-Paper-Conference.pdf)<br>
 \*Song Wang\*, \***Zihan Chen**\*, Chengshuai Shi, Cong Shen, Jundong Li<br>
