@@ -25,9 +25,13 @@ International Conference on Machine Learning (ICML), 2026
 **Zihan Chen**, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li<br>
 ACM SIGKDD Explorations, 2026
 
-**Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
+**Hybrid Zeroth- and First-Order Split Federated Learning with Dimension-Free Convergence.** [pdf](https://par.nsf.gov/servlets/purl/10686370)<br>
 Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
 IEEE International Symposium on Information Theory (ISIT), 2026
+
+**Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
+Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
+arXiv preprint
 
 **Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
 Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
