@@ -13,11 +13,11 @@ Transactions on Machine Learning Research (TMLR), 2026
 \*Songwei Dong\*, \***Zihan Chen**\*, Chengshuai Shi, Peng Wang, Jundong Li, Cong Shen<br>
 arXiv preprint
 
-**SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.** [pdf]<br>
+**SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection.** [pdf](https://openreview.net/pdf?id=R8hivF3AkV)<br>
 **Zihan Chen**, Chengshuai Shi, Song Wang, Jundong Li, Cong Shen<br>
 International Conference on Machine Learning (ICML), 2026
 
-**Generalist Graph Anomaly Detection via Prototype-Based Distillation.** [pdf]<br>
+**Generalist Graph Anomaly Detection via Prototype-Based Distillation.** [pdf](https://arxiv.org/abs/2605.26857)<br>
 Yiming Xu, **Zihan Chen**, Zhen Peng, Song Wang, Bin Shi, Bo Dong, Chao Shen<br>
 International Conference on Machine Learning (ICML), 2026
 
