@@ -15,7 +15,7 @@ description              : &description "Personal page for Zihan Chen."
 url                      : https://Chen-1031.github.io # the base hostname & protocol for your site e.g. "https://Chen-1031.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-keywords: Zihan Chen,  UVA, Ph.D., in-context learning, prompt engineering, federated learning, llm
+keywords: Zihan Chen,  UVA, Ph.D., self-evolve agent, llm memory, context optimization, federated learning, graph learning
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/zihanchen-uva"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
