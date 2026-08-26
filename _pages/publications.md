@@ -5,6 +5,20 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+
+
+**The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory.** [pdf](https://arxiv.org/abs/2606.31121)<br>
+**Zihan Chen**, Songwei Dong, Chengshuai Shi, Peng Wang, Song Wang, Cong Shen, Jundong Li<br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2026
+
+**TeacherGRPO: Closing the Capacity Gap in Reasoning Distillation via Teacher Alignment.** [pdf]<br>
+Zhenyu Lei, **Zihan Chen**, Yaochen Zhu, Shangbin Feng, Zaiyi Zheng, Ruocheng Guo, Yushun Dong, Jundong Li<br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2026
+
+**UniMod: Enhancing Multi-Modal Medical Diagnosis through Cross-Modality and Within-Modality Alignment.**[pdf](https://arxiv.org/abs/2608.10316)<br>
+Zijian Gu, Weikai Lin, Shuang Zhou, **Zihan Chen**, Song Wang<br>
+ACM Multimedia (MM), 2026
+
 **Channel-Wise Mixed-Precision Quantization for Large Language Models.** [pdf](https://arxiv.org/abs/2410.13056)<br>
 **Zihan Chen**, Bike Xie, Jundong Li, Cong Shen<br>
 Transactions on Machine Learning Research (TMLR), 2026
