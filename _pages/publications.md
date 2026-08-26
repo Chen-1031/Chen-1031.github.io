@@ -15,7 +15,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP M
 Zhenyu Lei, **Zihan Chen**, Yaochen Zhu, Shangbin Feng, Zaiyi Zheng, Ruocheng Guo, Yushun Dong, Jundong Li<br>
 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2026
 
-**UniMod: Enhancing Multi-Modal Medical Diagnosis through Cross-Modality and Within-Modality Alignment.**[pdf](https://arxiv.org/abs/2608.10316)<br>
+**UniMod: Enhancing Multi-Modal Medical Diagnosis through Cross-Modality and Within-Modality Alignment.** [pdf](https://arxiv.org/abs/2608.10316)<br>
 Zijian Gu, Weikai Lin, Shuang Zhou, **Zihan Chen**, Song Wang<br>
 ACM Multimedia (MM), 2026
 
