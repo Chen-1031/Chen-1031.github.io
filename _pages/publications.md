@@ -5,7 +5,9 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
-
+**Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning.** [pdf]<br>
+Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
+Learning on Graphs Conference (LOG), 2026
 
 **The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory.** [pdf](https://arxiv.org/abs/2606.31121)<br>
 **Zihan Chen**, Songwei Dong, Chengshuai Shi, Peng Wang, Song Wang, Cong Shen, Jundong Li<br>
