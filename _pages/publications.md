@@ -45,6 +45,11 @@ ACM SIGKDD Explorations, 2026
 Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
 IEEE International Symposium on Information Theory (ISIT), 2026
 
+**Large Language Models for Data Science: A Survey.** [pdf]<br>
+Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
+Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu<br>
+ACM SIGKDD Explorations, 2026
+
 **Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
 Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
 arXiv preprint
@@ -88,11 +93,6 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP F
 **Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection.** [pdf](https://arxiv.org/abs/2508.00507)<br> 
 Yiming Xu, Jiarun Chen, Zhen Peng, **Zihan Chen**, Qika Lin, Lan Ma, Bin Shi, Bo Dong<br>
 ACM Multimedia (MM), 2025 (Oral)
-
-**Large Language Models for Data Science: A Survey.** [pdf](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)<br>
-Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
-Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu<br>
-Researchgate
 
 **Graph Prompting for Graph Learning Models: Recent Advances and Future Directions.** [pdf](https://arxiv.org/abs/2506.08326)<br>
 Xingbo Fu, Zehong Wang, **Zihan Chen**, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li<br>
