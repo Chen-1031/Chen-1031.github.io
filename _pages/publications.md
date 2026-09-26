@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Lean Clients, Full Accuracy: Hybrid Zeroth- and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
+Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
+IEEE Journal on Selected Areas in Communications (JSAC), 2026
+
 **Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning.** [pdf]<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
 Learning on Graphs Conference (LoG), 2026
@@ -49,10 +53,6 @@ IEEE International Symposium on Information Theory (ISIT), 2026
 Song Wang, Zhen Tan, **Zihan Chen**, Dawei Li, Yaochen Zhu, Bohan Jiang,
 Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu<br>
 ACM SIGKDD Explorations, 2026
-
-**Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning.** [pdf](https://arxiv.org/abs/2601.09076)<br>
-Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
-arXiv preprint
 
 **Safety in Graph Machine Learning: Threats and Safeguards.** [pdf](https://arxiv.org/abs/2405.11034)<br>
 Song Wang, Yushun Dong, Binchi Zhang, **Zihan Chen**, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, Jundong Li<br>
