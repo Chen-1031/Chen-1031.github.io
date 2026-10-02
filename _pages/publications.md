@@ -21,7 +21,7 @@ Learning on Graphs Conference (LoG), 2026
 **Zihan Chen**, Songwei Dong, Chengshuai Shi, Peng Wang, Song Wang, Cong Shen, Jundong Li<br>
 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2026
 
-**TeacherGRPO: Closing the Capacity Gap in Reasoning Distillation via Teacher Alignment.** [pdf]<br>
+**TeacherGRPO: Closing the Capacity Gap in Reasoning Distillation via Teacher Alignment.** [pdf](https://arxiv.org/abs/2609.33426)<br>
 Zhenyu Lei, **Zihan Chen**, Yaochen Zhu, Shangbin Feng, Zaiyi Zheng, Ruocheng Guo, Yushun Dong, Jundong Li<br>
 The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2026
 
