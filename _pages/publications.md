@@ -5,6 +5,10 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=ylbrk-oAAAAJ).
 
+**Good Papers: Telling Which Research Papers Are Worth Reading.** [pdf](https://www.goodpapers.org/)<br>
+Zhenyu Lei, Shangbin Feng, Zhaoxuan Tan, Binchi Zhang, **Zihan Chen**, Ruocheng Guo, Heng Wang, Chenyang Qiu, Song Wang, Yushun Dong, Yue Zhao, Jundong Li<br>
+The 20th ACM International Conference on Web Search and Data Mining (WSDM Demo Track), 2027 
+
 **Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory.** [pdf](https://arxiv.org/abs/2605.15384)<br>
 \*Songwei Dong\*, \***Zihan Chen**\*, Chengshuai Shi, Peng Wang, Jundong Li, Cong Shen<br>
 NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents (TTCL), 2026 
@@ -13,7 +17,7 @@ NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents (TTCL), 202
 Zhoubin Kou, **Zihan Chen**, Jing Yang, Cong Shen<br>
 IEEE Journal on Selected Areas in Communications (JSAC), 2026
 
-**Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning.** [pdf]<br>
+**Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning.** [pdf](https://openreview.net/forum?id=snLnJfOkS4)<br>
 Xingbo Fu, **Zihan Chen**, Binchi Zhang, Chen Chen, Jundong Li<br>
 Learning on Graphs Conference (LoG), 2026
 
